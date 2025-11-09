@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+https://github-readme-stats.vercel.app/api?username=ErLex20&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ErLex20&layout=compact&theme=dark&title_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700
+
 <!--
 **ErLex20/ErLex20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
