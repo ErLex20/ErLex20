@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-![Le mie statistiche GitHub](https://github-readme-stats.vercel.app/api?username=ErLex20)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErLex20)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ErLex20E&repo=dua-template)](https://github.com/dotX-Automation/dua-template)
 
 <!--
 **ErLex20/ErLex20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
