@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErLex20)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErLex20&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700)
 
-[[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotX-Automation&repo=dua-template&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dotX-Automation&repo=dua-template&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=000000&border_color=FFD700)
 
 <!--
 **ErLex20/ErLex20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
